@@ -2,7 +2,7 @@
 # and https://foundry-rs.github.io/starknet-foundry/projects/configuration.html for more information
 
 [sncast.sepolia]
-url="https://starknet-sepolia.g.alchemy.com/starknet/version/rpc/v0_8/DDJKDwCqmECU4hsTGu_BTqmNdsYXhvhO"
+url="https://starknet-sepolia.g.alchemy.com/starknet"
 network="sepolia"
 account="hello_uche"
 # accounts-file = "../account-file"                        # Path to the file with the account data
